@@ -1,0 +1,8 @@
+name: Arenapvp
+version: ${project.version}
+main: io.github.bilektugrul.arenapvp.Arenapvp
+api-version: 1.16
+prefix: [ ArenaPvP ]
+softdepend: [ Multiverse-Core ]
+authors: [ bilektugrul, Despical ]
+description: Long waited ArenaPvP plugin for everyone.
